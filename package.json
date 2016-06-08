@@ -1,0 +1,29 @@
+{
+  "name": "dfwdeploymentrocks",
+  "version": "1.0.0",
+  "description": "This is for class!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryforsythe2/dfwdeploymentrocks.git"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-qunit": "*",
+    "qunitjs": "^2.0.0-rc1"
+  },
+  "author": "awscory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coryforsythe2/dfwdeploymentrocks/issues"
+  },
+  "engine": "node >= 0.12",
+  "homepage": "https://github.com/coryforsythe2/dfwdeploymentrocks#readme"
+}
